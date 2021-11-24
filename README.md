@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucasdeprit, Im a software engeneer
 - 👀 I’m interested in FULL STACK DEVELOPMENT
-- 🌱 I’m currently learning HTML JAVASCRIPT & CSS
-- 💞️ I’m looking to collaborate on WEB DEVELOPMENT 
+- 🌱 I’m currently learning HTML JAVASCRIPT, CSS & REACT
+- :see_no_evil: I’m looking to collaborate on WEB DEVELOPMENT 
 - 📫 How to reach me lucasdeprit@gmail.com
 
 <!---
